@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556861019 source:c:\users\10733\desktop\นในค\second\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<algorithm>
+	<windows.h>
+
